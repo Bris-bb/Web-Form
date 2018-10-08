@@ -12,7 +12,7 @@
 		• ASP.NET Identity, Configuration, and Authorization
 		• Unobtrusive Validation
 		• Routing
-ASP.NET Error Handling
+		• ASP.NET Error Handling
 
 ![alt text](https://github.com/Bris-bb/web-form-2/blob/master/Images/1.png)
 ![alt text](https://github.com/Bris-bb/web-form-2/blob/master/Images/2.png)
